@@ -1,6 +1,6 @@
 version: "2"
 
 services:
-  php-fpm:
-    image: digitalcanvasdesign/php-fpm
+  nginx:
+    image: digitalcanvasdesign/nginx-ssl
     build: ./

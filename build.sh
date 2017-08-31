@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOCKERHUB=digitalcanvasdesign/php-fpm
+DOCKERHUB=digitalcanvasdesign/nginx-ssl
 
 function semverParseInto() {
     local RE='[^0-9]*\([0-9]*\)[.]\([0-9]*\)[.]\([0-9]*\)\([0-9A-Za-z-]*\)'
