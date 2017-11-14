@@ -1,4 +1,4 @@
-FROM nginx:1.13
+FROM nginx:1.13.6-alpine
 
 LABEL maintainer="Jason Raimondi <jason@raimondi.us>"
 
