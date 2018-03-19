@@ -1,4 +1,4 @@
-FROM nginx:1.13.6
+FROM nginx:1.13.9
 
 LABEL maintainer="Jason Raimondi <jason@raimondi.us>"
 
